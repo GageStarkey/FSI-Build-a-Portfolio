@@ -1,0 +1,24 @@
+
+.me-photo {
+    border-top-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 15%;
+    border-top-left-radius: 15%;
+}
+
+
+body {
+    background-color: antiquewhite;
+}
+
+
+hr {
+    height: 5px;
+    background-color: black;
+    border-color: black;
+}
+
+
+.body {
+    block-size: auto;
+}
